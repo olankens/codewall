@@ -6,13 +6,13 @@ Elevate your development workspace with this stunning collection of high-quality
 
 <hr>
 
-### Node Wallpapers
+### For Nodeheads
 
 <img src="src/node-01.avif" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/node-02.avif" width="49.375%"/><img src="src/node-03.avif" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/node-04.avif" width="49.375%"/><img src="src/node-05.avif" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/node-06.avif" width="49.375%"/>
 
 <hr>
 
-### Python Wallpapers
+### For Pythonistas
 
 <img src="src/python-01.avif" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/python-02.avif" width="49.375%"/>
 
@@ -20,7 +20,7 @@ Elevate your development workspace with this stunning collection of high-quality
 
 # GUIDANCE
 
-### Change Wallpaper on macOS
+### Set Wallpaper on macOS
 
 This script resets all com.apple.wallpaper settings to their default state, downloads the specified wallpaper image, and then applies it across every desktop on all monitors and spaces, ensuring a consistent background throughout your macOS environment.
 
