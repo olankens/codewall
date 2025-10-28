@@ -4,9 +4,13 @@
 
 Elevate your development workspace with this stunning collection of high-quality, vivid wallpapers for developers. Each carefully crafted design celebrates the craft of building software across languages and frameworks. Transform your desktop into a source of inspiration for your next coding session, featuring sleek minimalist compositions, vibrant color palettes, and professional aesthetics that reflect the modern developer's passion for clean, efficient code.
 
+<hr>
+
 ### For Nodeheads
 
 <img src="src/node-01.avif" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/node-02.avif" width="49.375%"/><img src="src/node-03.avif" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/node-04.avif" width="49.375%"/><img src="src/node-05.avif" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/node-06.avif" width="49.375%"/>
+
+<hr>
 
 ### For Pythonistas
 
