@@ -48,3 +48,11 @@ osascript -e "tell application \"System Events\" to tell every desktop to set pi
 ```
 
 <hr>
+
+### Set Wallpaper on Windows
+
+```powershell
+
+```
+
+<hr>
