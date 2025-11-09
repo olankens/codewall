@@ -1,12 +1,6 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".assets/icon-dark.png">
-    <img src=".assets/icon-light.png" width="144">
-  </picture>
-</p>
+<p align="center"><img src=".assets/icon.svg" width="128"></p>
 
 <h1 align="center"><samp>CODEWALL</samp></h1>
-
 <p align="center">Transform your workspace with bold, high-quality wallpapers made for developers. Each design captures the spirit of coding with clean lines, vibrant colors, and modern style.</p>
 
 <hr>
@@ -34,7 +28,6 @@
 <hr>
 
 <h3 align="center">Set Wallpaper on macOS</h3>
-
 <p align="center">This script resets all com.apple.wallpaper settings to their default state, downloads the specified wallpaper image, and then applies it across every desktop on all monitors and spaces, ensuring a consistent background throughout your macOS environment.</p>
 
 ```shell
