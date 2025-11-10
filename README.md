@@ -1,7 +1,7 @@
 <hr>
 
 <div align="center">
-  <img src=".assets/icon.svg" width="128">
+  <img src=".assets/icon.svg" width="132">
   <h1><samp>CODEWALL</samp></h1>
   <p>Transform your workspace with bold, high-quality wallpapers made for developers. Each design captures the spirit of coding with clean lines, vibrant colors, and modern style.</p>
 </div>
