@@ -1,7 +1,7 @@
 <hr>
 
 <div align="center">
-  <img src=".assets/icon.svg" width="132">
+  <img src=".assets/ico.svg" width="132">
   <h1><samp>CODEWALL</samp></h1>
   <p>Transform your workspace with bold, high-quality wallpapers made for developers. Each design captures the spirit of coding with clean lines, vibrant colors, and modern style.</p>
 </div>
@@ -10,7 +10,7 @@
 
 ### Wallpapers
 
-<img src="src/node-01.avif" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/node-02.avif" width="49.375%"/><img src="src/node-03.avif" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/node-04.avif" width="49.375%"/><img src="src/node-05.avif" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/node-06.avif" width="49.375%"/><img src="src/python-01.avif" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/python-02.avif" width="49.375%"/><img src="src/angular-01.avif" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/angular-02.avif" width="49.375%"/><img src="src/node-07.avif" width="49.375%"/>
+<img src="src/node-01.avif" width="49.375%"/><img src=".assets/00.png" width="1.25%"/><img src="src/node-02.avif" width="49.375%"/><img src="src/node-03.avif" width="49.375%"/><img src=".assets/00.png" width="1.25%"/><img src="src/node-04.avif" width="49.375%"/><img src="src/node-05.avif" width="49.375%"/><img src=".assets/00.png" width="1.25%"/><img src="src/node-06.avif" width="49.375%"/><img src="src/python-01.avif" width="49.375%"/><img src=".assets/00.png" width="1.25%"/><img src="src/python-02.avif" width="49.375%"/><img src="src/angular-01.avif" width="49.375%"/><img src=".assets/00.png" width="1.25%"/><img src="src/angular-02.avif" width="49.375%"/><img src="src/node-07.avif" width="49.375%"/>
 
 <hr>
 
