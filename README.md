@@ -33,7 +33,7 @@
 
 <h3 align="center">Set Wallpaper on macOS</h3>
 
-This script resets all com.apple.wallpaper settings to their default state, downloads the specified wallpaper image, and then applies it across every desktop on all monitors and spaces, ensuring a consistent background throughout your macOS environment.
+<p align="center">This script resets all com.apple.wallpaper settings to their default state, downloads the specified wallpaper image, and then applies it across every desktop on all monitors and spaces, ensuring a consistent background throughout your macOS environment.</p>
 
 ```shell
 address="https://github.com/olankens/codewall/raw/HEAD/src/node-01.avif"
