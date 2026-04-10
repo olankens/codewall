@@ -14,7 +14,7 @@ experience.
 
 ### Wallpapers
 
-<img src="src/node-01.avif" width="49.375%"/><img src=".assets/1x1.gif" width="1.25%"/><img src="src/node-02.avif" width="49.375%"/><img src="src/node-03.avif" width="49.375%"/><img src=".assets/1x1.gif" width="1.25%"/><img src="src/node-04.avif" width="49.375%"/><img src="src/node-05.avif" width="49.375%"/><img src=".assets/1x1.gif" width="1.25%"/><img src="src/node-06.avif" width="49.375%"/><img src="src/python-01.avif" width="49.375%"/><img src=".assets/1x1.gif" width="1.25%"/><img src="src/python-02.avif" width="49.375%"/><img src="src/angular-01.avif" width="49.375%"/><img src=".assets/1x1.gif" width="1.25%"/><img src="src/angular-02.avif" width="49.375%"/>
+<img src="src/node-01.avif" width="49.625%"/><img src=".assets/1x1.gif" width="0.75%"/><img src="src/node-02.avif" width="49.625%"/><img src="src/node-03.avif" width="49.625%"/><img src=".assets/1x1.gif" width="0.75%"/><img src="src/node-04.avif" width="49.625%"/><img src="src/node-05.avif" width="49.625%"/><img src=".assets/1x1.gif" width="0.75%"/><img src="src/node-06.avif" width="49.625%"/><img src="src/python-01.avif" width="49.625%"/><img src=".assets/1x1.gif" width="0.75%"/><img src="src/python-02.avif" width="49.625%"/><img src="src/angular-01.avif" width="49.625%"/><img src=".assets/1x1.gif" width="0.75%"/><img src="src/angular-02.avif" width="49.625%"/>
 
 <hr>
 
